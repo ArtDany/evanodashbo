@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/evanodashbo/static/css/main.ca77cd43.css",
+    "main.js": "/evanodashbo/static/js/main.dc8a5197.js",
+    "static/media/promote.svg": "/evanodashbo/static/media/promote.6173903c20a60f923179e722dc0ff91e.svg",
+    "static/media/promoteFill.svg": "/evanodashbo/static/media/promoteFill.66d88e12bfa8b2db74a1747927e0c130.svg",
+    "static/media/income.svg": "/evanodashbo/static/media/income.18c43397e34f1fe16af5b4ed2e9e2cc1.svg",
+    "static/media/incomeFill.svg": "/evanodashbo/static/media/incomeFill.1d4ae4de18d3c97af43f93ca86e722c8.svg",
+    "static/media/product.svg": "/evanodashbo/static/media/product.28af61e375474813a6adc4fb27e44391.svg",
+    "static/media/productFill.svg": "/evanodashbo/static/media/productFill.314325b2c777a20f6060afaa825ea08d.svg",
+    "static/media/help.svg": "/evanodashbo/static/media/help.d9aa53d3772328403382b97577e39a82.svg",
+    "static/media/helpFill.svg": "/evanodashbo/static/media/helpFill.d06d3882b5ed54119eb2bc232cb5ce20.svg",
+    "static/media/customers.svg": "/evanodashbo/static/media/customers.924cbbbc07b25e78b70fae666d8425e6.svg",
+    "static/media/customersFill.svg": "/evanodashbo/static/media/customersFill.2c7dfc6abaa18be57273f386848dd1fd.svg",
+    "static/media/title.svg": "/evanodashbo/static/media/title.7def2c14919129994f3e0aa51c558702.svg",
+    "static/media/dashboard.svg": "/evanodashbo/static/media/dashboard.6cea77b5f7edab5e350a0a4c207516da.svg",
+    "static/media/dashboardFill.svg": "/evanodashbo/static/media/dashboardFill.979a8a9cee5b300a23a5fcdf8720facd.svg",
+    "index.html": "/evanodashbo/index.html",
+    "static/media/chevron.svg": "/evanodashbo/static/media/chevron.c5e73fd03b5afb67a42bc8648bdd9233.svg",
+    "static/media/chevronFill.svg": "/evanodashbo/static/media/chevronFill.fb4010fb267fec1fac9700477bf9c503.svg",
+    "main.ca77cd43.css.map": "/evanodashbo/static/css/main.ca77cd43.css.map",
+    "main.dc8a5197.js.map": "/evanodashbo/static/js/main.dc8a5197.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca77cd43.css",
+    "static/js/main.dc8a5197.js"
+  ]
+}
